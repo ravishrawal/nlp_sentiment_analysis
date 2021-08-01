@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Jul 30 23:31:06 2021
+
+@author: zhiyuan ma
+"""
 from bert_dataset import CustomDataset
 from torch.utils.data import  DataLoader
 import pandas as pd
