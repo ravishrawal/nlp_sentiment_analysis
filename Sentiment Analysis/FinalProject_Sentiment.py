@@ -33,4 +33,21 @@ from datetime import datetime
 with_date['year'] = pd.to_datetime(with_date['dates'], errors='coerce').dt.year
 
 data_with_year = pd.concat([senti, with_date['year']], axis=1)
-write_pickle(base_path, "review_w_sent_and_year.pkl", data_with_year)
+#write_pickle(base_path, "review_w_sent_and_year.pkl", data_with_year)
+
+
+
+#Rating over time for each company
+
+import matplotlib.pyplot as plt
+fig, ax = plt.subplots(figsize=(15,9))
+data_with_year.groupby(['year', 'company'])['overall_ratings'].mean().unstack().plot(ax=ax)
+_ = plt.xlabel("Years")
+_ = plt.ylabel("Overall Ratings")
+_ = plt.title("Overall Ratings per Year")
+
+fig, ax = plt.subplots(figsize=(15,9))
+data_with_year.groupby(['year', 'company'])['sum_stem_sent'].mean().unstack().plot(ax=ax)
+_ = plt.xlabel("Years")
+_ = plt.ylabel("Summary Sentiment Scores")
+_ = plt.title("Summary Sentiment Scores per Year")
