@@ -1,0 +1,381 @@
+############# Epoch 1: Training Start   #############
+Epoch: 1, Training Loss:  12.474106788635254
+############# Epoch 1: Training End     #############
+############# Epoch 1: Validation Start   #############
+############# Epoch 1: Validation End     #############
+Epoch: 1 	Avgerage Training Loss: 0.030211 	Average Validation Loss: 0.024169
+Validation loss decreased (inf --> 0.024169).  Saving model ...
+############# Epoch 1  Done   #############
+
+############# Epoch 2: Training Start   #############
+Epoch: 2, Training Loss:  10.388267517089844
+############# Epoch 2: Training End     #############
+############# Epoch 2: Validation Start   #############
+############# Epoch 2: Validation End     #############
+Epoch: 2 	Avgerage Training Loss: 0.027190 	Average Validation Loss: 0.018127
+Validation loss decreased (0.024169 --> 0.018127).  Saving model ...
+############# Epoch 2  Done   #############
+
+############# Epoch 3: Training Start   #############
+Epoch: 3, Training Loss:  9.445528030395508
+############# Epoch 3: Training End     #############
+############# Epoch 3: Validation Start   #############
+############# Epoch 3: Validation End     #############
+Epoch: 3 	Avgerage Training Loss: 0.024169 	Average Validation Loss: 0.018127
+Validation loss decreased (0.018127 --> 0.018127).  Saving model ...
+############# Epoch 3  Done   #############
+
+############# Epoch 4: Training Start   #############
+Epoch: 4, Training Loss:  9.1972074508667
+############# Epoch 4: Training End     #############
+############# Epoch 4: Validation Start   #############
+############# Epoch 4: Validation End     #############
+Epoch: 4 	Avgerage Training Loss: 0.021148 	Average Validation Loss: 0.018127
+Validation loss decreased (0.018127 --> 0.018127).  Saving model ...
+############# Epoch 4  Done   #############
+
+############# Epoch 5: Training Start   #############
+Epoch: 5, Training Loss:  8.832597732543945
+############# Epoch 5: Training End     #############
+############# Epoch 5: Validation Start   #############
+############# Epoch 5: Validation End     #############
+Epoch: 5 	Avgerage Training Loss: 0.021148 	Average Validation Loss: 0.015106
+Validation loss decreased (0.018127 --> 0.015106).  Saving model ...
+############# Epoch 5  Done   #############
+
+############# Epoch 6: Training Start   #############
+Epoch: 6, Training Loss:  7.898317337036133
+############# Epoch 6: Training End     #############
+############# Epoch 6: Validation Start   #############
+############# Epoch 6: Validation End     #############
+Epoch: 6 	Avgerage Training Loss: 0.021148 	Average Validation Loss: 0.015106
+Validation loss decreased (0.015106 --> 0.015106).  Saving model ...
+############# Epoch 6  Done   #############
+
+############# Epoch 7: Training Start   #############
+Epoch: 7, Training Loss:  8.17635440826416
+############# Epoch 7: Training End     #############
+############# Epoch 7: Validation Start   #############
+############# Epoch 7: Validation End     #############
+Epoch: 7 	Avgerage Training Loss: 0.021148 	Average Validation Loss: 0.015106
+Validation loss decreased (0.015106 --> 0.015106).  Saving model ...
+############# Epoch 7  Done   #############
+
+############# Epoch 8: Training Start   #############
+Epoch: 8, Training Loss:  7.690086841583252
+############# Epoch 8: Training End     #############
+############# Epoch 8: Validation Start   #############
+############# Epoch 8: Validation End     #############
+Epoch: 8 	Avgerage Training Loss: 0.021148 	Average Validation Loss: 0.015106
+Validation loss decreased (0.015106 --> 0.015106).  Saving model ...
+############# Epoch 8  Done   #############
+
+############# Epoch 9: Training Start   #############
+Epoch: 9, Training Loss:  7.550809860229492
+############# Epoch 9: Training End     #############
+############# Epoch 9: Validation Start   #############
+############# Epoch 9: Validation End     #############
+Epoch: 9 	Avgerage Training Loss: 0.018127 	Average Validation Loss: 0.015106
+Validation loss decreased (0.015106 --> 0.015106).  Saving model ...
+############# Epoch 9  Done   #############
+
+############# Epoch 10: Training Start   #############
+Epoch: 10, Training Loss:  7.5252366065979
+############# Epoch 10: Training End     #############
+############# Epoch 10: Validation Start   #############
+############# Epoch 10: Validation End     #############
+Epoch: 10 	Avgerage Training Loss: 0.018127 	Average Validation Loss: 0.012085
+Validation loss decreased (0.015106 --> 0.012085).  Saving model ...
+############# Epoch 10  Done   #############
+
+############# Epoch 11: Training Start   #############
+Epoch: 11, Training Loss:  7.00765323638916
+############# Epoch 11: Training End     #############
+############# Epoch 11: Validation Start   #############
+############# Epoch 11: Validation End     #############
+Epoch: 11 	Avgerage Training Loss: 0.018127 	Average Validation Loss: 0.012085
+Validation loss decreased (0.012085 --> 0.012085).  Saving model ...
+############# Epoch 11  Done   #############
+
+############# Epoch 12: Training Start   #############
+Epoch: 12, Training Loss:  7.521919250488281
+############# Epoch 12: Training End     #############
+############# Epoch 12: Validation Start   #############
+############# Epoch 12: Validation End     #############
+Epoch: 12 	Avgerage Training Loss: 0.018127 	Average Validation Loss: 0.012085
+Validation loss decreased (0.012085 --> 0.012085).  Saving model ...
+############# Epoch 12  Done   #############
+
+############# Epoch 13: Training Start   #############
+Epoch: 13, Training Loss:  6.972195625305176
+############# Epoch 13: Training End     #############
+############# Epoch 13: Validation Start   #############
+############# Epoch 13: Validation End     #############
+Epoch: 13 	Avgerage Training Loss: 0.018127 	Average Validation Loss: 0.015106
+############# Epoch 13  Done   #############
+
+############# Epoch 14: Training Start   #############
+Epoch: 14, Training Loss:  6.5191850662231445
+############# Epoch 14: Training End     #############
+############# Epoch 14: Validation Start   #############
+############# Epoch 14: Validation End     #############
+Epoch: 14 	Avgerage Training Loss: 0.018127 	Average Validation Loss: 0.012085
+Validation loss decreased (0.012085 --> 0.012085).  Saving model ...
+############# Epoch 14  Done   #############
+
+############# Epoch 15: Training Start   #############
+Epoch: 15, Training Loss:  6.547335624694824
+############# Epoch 15: Training End     #############
+############# Epoch 15: Validation Start   #############
+############# Epoch 15: Validation End     #############
+Epoch: 15 	Avgerage Training Loss: 0.018127 	Average Validation Loss: 0.015106
+############# Epoch 15  Done   #############
+
+############# Epoch 16: Training Start   #############
+Epoch: 16, Training Loss:  6.325233459472656
+############# Epoch 16: Training End     #############
+############# Epoch 16: Validation Start   #############
+############# Epoch 16: Validation End     #############
+Epoch: 16 	Avgerage Training Loss: 0.015106 	Average Validation Loss: 0.012085
+Validation loss decreased (0.012085 --> 0.012085).  Saving model ...
+############# Epoch 16  Done   #############
+
+############# Epoch 17: Training Start   #############
+Epoch: 17, Training Loss:  6.515844345092773
+############# Epoch 17: Training End     #############
+############# Epoch 17: Validation Start   #############
+############# Epoch 17: Validation End     #############
+Epoch: 17 	Avgerage Training Loss: 0.015106 	Average Validation Loss: 0.015106
+############# Epoch 17  Done   #############
+
+############# Epoch 18: Training Start   #############
+Epoch: 18, Training Loss:  6.370057582855225
+############# Epoch 18: Training End     #############
+############# Epoch 18: Validation Start   #############
+############# Epoch 18: Validation End     #############
+Epoch: 18 	Avgerage Training Loss: 0.015106 	Average Validation Loss: 0.012085
+Validation loss decreased (0.012085 --> 0.012085).  Saving model ...
+############# Epoch 18  Done   #############
+
+############# Epoch 19: Training Start   #############
+Epoch: 19, Training Loss:  6.102777004241943
+############# Epoch 19: Training End     #############
+############# Epoch 19: Validation Start   #############
+############# Epoch 19: Validation End     #############
+Epoch: 19 	Avgerage Training Loss: 0.015106 	Average Validation Loss: 0.015106
+############# Epoch 19  Done   #############
+
+############# Epoch 20: Training Start   #############
+Epoch: 20, Training Loss:  6.113502502441406
+############# Epoch 20: Training End     #############
+############# Epoch 20: Validation Start   #############
+############# Epoch 20: Validation End     #############
+Epoch: 20 	Avgerage Training Loss: 0.015106 	Average Validation Loss: 0.012085
+Validation loss decreased (0.012085 --> 0.012085).  Saving model ...
+############# Epoch 20  Done   #############
+
+############# Epoch 21: Training Start   #############
+Epoch: 21, Training Loss:  5.855298042297363
+############# Epoch 21: Training End     #############
+############# Epoch 21: Validation Start   #############
+############# Epoch 21: Validation End     #############
+Epoch: 21 	Avgerage Training Loss: 0.015106 	Average Validation Loss: 0.012085
+Validation loss decreased (0.012085 --> 0.012085).  Saving model ...
+############# Epoch 21  Done   #############
+
+############# Epoch 22: Training Start   #############
+Epoch: 22, Training Loss:  5.705367088317871
+############# Epoch 22: Training End     #############
+############# Epoch 22: Validation Start   #############
+############# Epoch 22: Validation End     #############
+Epoch: 22 	Avgerage Training Loss: 0.015106 	Average Validation Loss: 0.012085
+Validation loss decreased (0.012085 --> 0.012085).  Saving model ...
+############# Epoch 22  Done   #############
+
+############# Epoch 23: Training Start   #############
+Epoch: 23, Training Loss:  6.126583099365234
+############# Epoch 23: Training End     #############
+############# Epoch 23: Validation Start   #############
+############# Epoch 23: Validation End     #############
+Epoch: 23 	Avgerage Training Loss: 0.015106 	Average Validation Loss: 0.012085
+Validation loss decreased (0.012085 --> 0.012085).  Saving model ...
+############# Epoch 23  Done   #############
+
+############# Epoch 24: Training Start   #############
+Epoch: 24, Training Loss:  5.42263650894165
+############# Epoch 24: Training End     #############
+############# Epoch 24: Validation Start   #############
+############# Epoch 24: Validation End     #############
+Epoch: 24 	Avgerage Training Loss: 0.015106 	Average Validation Loss: 0.012085
+Validation loss decreased (0.012085 --> 0.012085).  Saving model ...
+############# Epoch 24  Done   #############
+
+############# Epoch 25: Training Start   #############
+Epoch: 25, Training Loss:  5.318230152130127
+############# Epoch 25: Training End     #############
+############# Epoch 25: Validation Start   #############
+############# Epoch 25: Validation End     #############
+Epoch: 25 	Avgerage Training Loss: 0.012085 	Average Validation Loss: 0.015106
+############# Epoch 25  Done   #############
+
+############# Epoch 26: Training Start   #############
+Epoch: 26, Training Loss:  5.428454875946045
+############# Epoch 26: Training End     #############
+############# Epoch 26: Validation Start   #############
+############# Epoch 26: Validation End     #############
+Epoch: 26 	Avgerage Training Loss: 0.012085 	Average Validation Loss: 0.015106
+############# Epoch 26  Done   #############
+
+############# Epoch 27: Training Start   #############
+Epoch: 27, Training Loss:  5.175510883331299
+############# Epoch 27: Training End     #############
+############# Epoch 27: Validation Start   #############
+############# Epoch 27: Validation End     #############
+Epoch: 27 	Avgerage Training Loss: 0.012085 	Average Validation Loss: 0.015106
+############# Epoch 27  Done   #############
+
+############# Epoch 28: Training Start   #############
+Epoch: 28, Training Loss:  5.405521869659424
+############# Epoch 28: Training End     #############
+############# Epoch 28: Validation Start   #############
+############# Epoch 28: Validation End     #############
+Epoch: 28 	Avgerage Training Loss: 0.012085 	Average Validation Loss: 0.015106
+############# Epoch 28  Done   #############
+
+############# Epoch 29: Training Start   #############
+Epoch: 29, Training Loss:  5.2249650955200195
+############# Epoch 29: Training End     #############
+############# Epoch 29: Validation Start   #############
+############# Epoch 29: Validation End     #############
+Epoch: 29 	Avgerage Training Loss: 0.012085 	Average Validation Loss: 0.015106
+############# Epoch 29  Done   #############
+
+############# Epoch 30: Training Start   #############
+Epoch: 30, Training Loss:  5.0546793937683105
+############# Epoch 30: Training End     #############
+############# Epoch 30: Validation Start   #############
+############# Epoch 30: Validation End     #############
+Epoch: 30 	Avgerage Training Loss: 0.012085 	Average Validation Loss: 0.015106
+############# Epoch 30  Done   #############
+
+############# Epoch 31: Training Start   #############
+Epoch: 31, Training Loss:  4.896860599517822
+############# Epoch 31: Training End     #############
+############# Epoch 31: Validation Start   #############
+############# Epoch 31: Validation End     #############
+Epoch: 31 	Avgerage Training Loss: 0.012085 	Average Validation Loss: 0.015106
+############# Epoch 31  Done   #############
+
+############# Epoch 32: Training Start   #############
+Epoch: 32, Training Loss:  5.131932258605957
+############# Epoch 32: Training End     #############
+############# Epoch 32: Validation Start   #############
+############# Epoch 32: Validation End     #############
+Epoch: 32 	Avgerage Training Loss: 0.012085 	Average Validation Loss: 0.015106
+############# Epoch 32  Done   #############
+
+############# Epoch 33: Training Start   #############
+Epoch: 33, Training Loss:  4.792142391204834
+############# Epoch 33: Training End     #############
+############# Epoch 33: Validation Start   #############
+############# Epoch 33: Validation End     #############
+Epoch: 33 	Avgerage Training Loss: 0.012085 	Average Validation Loss: 0.015106
+############# Epoch 33  Done   #############
+
+############# Epoch 34: Training Start   #############
+Epoch: 34, Training Loss:  4.571986198425293
+############# Epoch 34: Training End     #############
+############# Epoch 34: Validation Start   #############
+############# Epoch 34: Validation End     #############
+Epoch: 34 	Avgerage Training Loss: 0.012085 	Average Validation Loss: 0.015106
+############# Epoch 34  Done   #############
+
+############# Epoch 35: Training Start   #############
+Epoch: 35, Training Loss:  4.749443531036377
+############# Epoch 35: Training End     #############
+############# Epoch 35: Validation Start   #############
+############# Epoch 35: Validation End     #############
+Epoch: 35 	Avgerage Training Loss: 0.012085 	Average Validation Loss: 0.015106
+############# Epoch 35  Done   #############
+
+############# Epoch 36: Training Start   #############
+Epoch: 36, Training Loss:  4.269206523895264
+############# Epoch 36: Training End     #############
+############# Epoch 36: Validation Start   #############
+############# Epoch 36: Validation End     #############
+Epoch: 36 	Avgerage Training Loss: 0.012085 	Average Validation Loss: 0.015106
+############# Epoch 36  Done   #############
+
+############# Epoch 37: Training Start   #############
+Epoch: 37, Training Loss:  4.382920742034912
+############# Epoch 37: Training End     #############
+############# Epoch 37: Validation Start   #############
+############# Epoch 37: Validation End     #############
+Epoch: 37 	Avgerage Training Loss: 0.012085 	Average Validation Loss: 0.015106
+############# Epoch 37  Done   #############
+
+############# Epoch 38: Training Start   #############
+Epoch: 38, Training Loss:  4.355000972747803
+############# Epoch 38: Training End     #############
+############# Epoch 38: Validation Start   #############
+############# Epoch 38: Validation End     #############
+Epoch: 38 	Avgerage Training Loss: 0.009063 	Average Validation Loss: 0.015106
+############# Epoch 38  Done   #############
+
+############# Epoch 39: Training Start   #############
+Epoch: 39, Training Loss:  4.274407863616943
+############# Epoch 39: Training End     #############
+############# Epoch 39: Validation Start   #############
+############# Epoch 39: Validation End     #############
+Epoch: 39 	Avgerage Training Loss: 0.009063 	Average Validation Loss: 0.018127
+############# Epoch 39  Done   #############
+
+############# Epoch 40: Training Start   #############
+Epoch: 40, Training Loss:  4.543697834014893
+############# Epoch 40: Training End     #############
+############# Epoch 40: Validation Start   #############
+############# Epoch 40: Validation End     #############
+Epoch: 40 	Avgerage Training Loss: 0.009063 	Average Validation Loss: 0.015106
+############# Epoch 40  Done   #############
+
+############# Epoch 41: Training Start   #############
+Epoch: 41, Training Loss:  4.14348840713501
+############# Epoch 41: Training End     #############
+############# Epoch 41: Validation Start   #############
+############# Epoch 41: Validation End     #############
+Epoch: 41 	Avgerage Training Loss: 0.009063 	Average Validation Loss: 0.015106
+############# Epoch 41  Done   #############
+
+############# Epoch 42: Training Start   #############
+Epoch: 42, Training Loss:  3.9951353073120117
+############# Epoch 42: Training End     #############
+############# Epoch 42: Validation Start   #############
+############# Epoch 42: Validation End     #############
+Epoch: 42 	Avgerage Training Loss: 0.009063 	Average Validation Loss: 0.015106
+############# Epoch 42  Done   #############
+
+############# Epoch 43: Training Start   #############
+Epoch: 43, Training Loss:  3.9735093116760254
+############# Epoch 43: Training End     #############
+############# Epoch 43: Validation Start   #############
+############# Epoch 43: Validation End     #############
+Epoch: 43 	Avgerage Training Loss: 0.009063 	Average Validation Loss: 0.015106
+############# Epoch 43  Done   #############
+
+############# Epoch 44: Training Start   #############
+Epoch: 44, Training Loss:  4.078428745269775
+############# Epoch 44: Training End     #############
+############# Epoch 44: Validation Start   #############
+############# Epoch 44: Validation End     #############
+Epoch: 44 	Avgerage Training Loss: 0.009063 	Average Validation Loss: 0.018127
+############# Epoch 44  Done   #############
+
+############# Epoch 45: Training Start   #############
+Epoch: 45, Training Loss:  3.842449188232422
+############# Epoch 45: Training End     #############
+############# Epoch 45: Validation Start   #############
+############# Epoch 45: Validation End     #############
+Epoch: 45 	Avgerage Training Loss: 0.009063 	Average Validation Loss: 0.018127
+############# Epoch 45  Done   #############
+
+############# Epoch 46: Training Start   #############
