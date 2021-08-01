@@ -1,0 +1,79 @@
+############# Test Start   #############
+--------overall_ratings evaluation---------
+              precision    recall  f1-score   support
+
+         0.0       0.54      0.20      0.29       629
+         1.0       0.27      0.17      0.21       766
+         2.0       0.36      0.35      0.36      1970
+         3.0       0.44      0.51      0.47      3539
+         4.0       0.58      0.61      0.59      3680
+
+    accuracy                           0.47     10584
+   macro avg       0.44      0.37      0.39     10584
+weighted avg       0.47      0.47      0.46     10584
+
+--------work_balance_stars evaluation---------
+              precision    recall  f1-score   support
+
+         1.0       0.39      0.34      0.37      1259
+         2.0       0.25      0.20      0.22      1571
+         3.0       0.29      0.33      0.31      2508
+         4.0       0.32      0.31      0.31      2751
+         5.0       0.43      0.49      0.45      2495
+
+    accuracy                           0.34     10584
+   macro avg       0.34      0.33      0.33     10584
+weighted avg       0.34      0.34      0.34     10584
+
+--------culture_values_stars evaluation---------
+              precision    recall  f1-score   support
+
+         0.0       0.45      0.35      0.39       933
+         1.0       0.21      0.13      0.16       944
+         2.0       0.28      0.26      0.27      1843
+         3.0       0.30      0.27      0.28      2646
+         4.0       0.57      0.71      0.63      4218
+
+    accuracy                           0.43     10584
+   macro avg       0.36      0.34      0.35     10584
+weighted avg       0.41      0.43      0.42     10584
+
+--------carrer_opportunities_stars evaluation---------
+              precision    recall  f1-score   support
+
+         1.0       0.44      0.23      0.30       838
+         2.0       0.21      0.11      0.15      1047
+         3.0       0.30      0.38      0.34      2341
+         4.0       0.35      0.37      0.36      3058
+         5.0       0.50      0.52      0.51      3300
+
+    accuracy                           0.38     10584
+   macro avg       0.36      0.32      0.33     10584
+weighted avg       0.38      0.38      0.38     10584
+
+--------comp_benefit_stars evaluation---------
+              precision    recall  f1-score   support
+
+         1.0       0.33      0.09      0.14       342
+         2.0       0.16      0.05      0.07       650
+         3.0       0.29      0.23      0.25      2041
+         4.0       0.39      0.43      0.41      3631
+         5.0       0.50      0.60      0.55      3920
+
+    accuracy                           0.42     10584
+   macro avg       0.33      0.28      0.29     10584
+weighted avg       0.40      0.42      0.40     10584
+
+--------senior_mangemnet_stars evaluation---------
+              precision    recall  f1-score   support
+
+         1.0       0.50      0.39      0.44      1386
+         2.0       0.26      0.21      0.23      1395
+         3.0       0.30      0.35      0.32      2492
+         4.0       0.37      0.38      0.37      2953
+         5.0       0.44      0.46      0.45      2358
+
+    accuracy                           0.37     10584
+   macro avg       0.37      0.36      0.36     10584
+weighted avg       0.37      0.37      0.37     10584
+
