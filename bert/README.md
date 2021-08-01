@@ -1,2 +1,3 @@
 # The bert part of nlp_sentiment_analysis
-Run ```python bert_preprocess.py```
+First, place the pkl file ```review_with_sent_score.pkl``` under this directory.
+To further preprocess the data, use ```python bert_preprocess.py```
