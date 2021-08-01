@@ -1,9 +1,16 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Jul 30 23:31:06 2021
+
+@author: zhiyuan ma
+"""
 import torch, transformers
 from torch.nn import Dropout, Linear, Sequential, ReLU
 import pdb
 # print(set(df["overall_ratings"])) #{1.0, 2.0, 3.0, 4.0, 5.0}
 # print(set(df["work_balance_stars"])) #{'3.0', '1.5', '4.5', 'none', '2.5', '2.0', '4.0', '3.5', '5.0', '1.0'}
-# print(set(df["'culture_values_stars'"])) #{'3.0', 'none', '2.0', '4.0', '5.0', '1.0'}
+# print(set(df["culture_values_stars"])) #{'3.0', 'none', '2.0', '4.0', '5.0', '1.0'}
 # print(set(df["carrer_opportunities_stars"])) #{'3.0', '1.5', '4.5', 'none', '2.5', '2.0', '4.0', '3.5', '5.0', '1.0'}
 # print(set(df["comp_benefit_stars"])) #{'3.0', '1.5', '4.5', 'none', '2.5', '2.0', '4.0', '3.5', '5.0', '1.0'}
 # print(set(df["senior_mangemnet_stars"])) #{'3.0', '1.5', '4.5', 'none', '2.5', '2.0', '4.0', '3.5', '5.0', '1.0'}
@@ -40,7 +47,6 @@ class BERTClass(torch.nn.Module):
         for idx, comment in enumerate(self.comments):
             sub_data = data[comment]
             ids, mask, token_type_ids =  sub_data['ids'], sub_data['mask'], sub_data['token_type_ids']
-
             output = self.bert(ids, attention_mask = mask, token_type_ids = token_type_ids)[1]
             output = self.dropout(output)
             output = self.proj_ls[idx](output)
