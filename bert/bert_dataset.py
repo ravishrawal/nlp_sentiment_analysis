@@ -78,7 +78,6 @@ class CustomDataset_fast(Dataset):
             ids = sub_data['ids']
             mask = sub_data['mask']
             token_type_ids = sub_data["token_type_ids"]
-
             sub_data_value = {
                 'ids': torch.tensor(ids, dtype=torch.long),
                 'mask': torch.tensor(mask, dtype=torch.long),
