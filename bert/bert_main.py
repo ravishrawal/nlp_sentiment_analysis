@@ -30,9 +30,9 @@ device = torch.device('cuda:0') if torch.cuda.is_available() else torch.device('
 
 # define hyper-parameters
 MAX_LEN = 15 # it is the result of max_length(df) 
-TRAIN_BATCH_SIZE = 32
+TRAIN_BATCH_SIZE = 128
 VALID_BATCH_SIZE = 32
-EPOCHS = 1
+EPOCHS = 1000
 LEARNING_RATE = 1e-5
 
 # load data frame
@@ -74,6 +74,6 @@ optimizer = torch.optim.Adam(
 checkpoint_path = './models/current_checkpoint.pt'
 best_model = './models/best_model.pt'
 trained_model = train_model(
-    1, 4, np.Inf, training_loader, validation_loader, 
+    1, EPOCHS, np.Inf, training_loader, validation_loader, 
     model, optimizer,checkpoint_path,best_model, device)
 
