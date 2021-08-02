@@ -51,3 +51,16 @@ data_with_year.groupby(['year', 'company'])['sum_stem_sent'].mean().unstack().pl
 _ = plt.xlabel("Years")
 _ = plt.ylabel("Summary Sentiment Scores")
 _ = plt.title("Summary Sentiment Scores per Year")
+
+fig, ax = plt.subplots(figsize=(15,9))
+data_with_year.groupby(['year', 'company'])['pros_stem_sent'].mean().unstack().plot(ax=ax)
+_ = plt.xlabel("Years")
+_ = plt.ylabel("Pros Comments Sentiment Scores")
+_ = plt.title("Pros Comments Sentiment Scores per Year")
+
+
+fig, ax = plt.subplots(figsize=(15,9))
+data_with_year.groupby(['year', 'company'])['cons_stem_sent'].mean().unstack().plot(ax=ax)
+_ = plt.xlabel("Years")
+_ = plt.ylabel("Cons Comments Sentiment Scores")
+_ = plt.title("Cons Comments Sentiment Scores per Year")
